@@ -1,3 +1,3 @@
-# Spring-MVC-part1-thymeleaf-basic
+# Spring-MVC-part2-thymeleaf-basic
 
 🍀 About Studying SpringMVC - thymeleaf-basic
